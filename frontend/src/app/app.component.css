@@ -1,0 +1,8 @@
+.controll {
+	display: flex;
+	flex-direction: column;
+}
+
+input, button {
+	margin-bottom: 15px;
+}
